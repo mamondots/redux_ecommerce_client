@@ -1,0 +1,16 @@
+.categories_title{
+    position: relative;
+}
+.categories_title::before{
+    position: absolute;
+    content:"";
+    width:0%;
+    height:2px;
+    background-color:#262626;
+    bottom:0px;
+    left:0;
+    transition:0.5s;
+}
+.categories_title:hover::before{
+    width:100%;
+}

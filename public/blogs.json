@@ -1,0 +1,34 @@
+[
+    {
+        "brand": "mamondots",
+        "title": "how to style a outfits",
+        "description": "Join us for the launch event of our latest product line. Discover innovative features and enhancements designed to revolutionize your experience.",
+        "date": "28-Apr-2024",
+        "img":"https://i.ibb.co/RG81MKk/blog3.jpg",
+        "select":"accessories"
+    },
+    {
+        "brand": "mamondots",
+        "title": "Selective Styles help your looks",
+        "description": "Don't miss out on our limited-time promotion! Enjoy exclusive discounts and deals on select products. Shop now and save!",
+        "date": "28-Apr-2024",
+        "img":"https://i.ibb.co/hy4Cq5j/blog2.jpg",
+        "select":"trends"
+    },
+    {
+        "brand": "mamondots",
+        "title": "jewels are fits 2024",
+        "description": "Don't miss out on our limited-time promotion! Enjoy exclusive discounts and deals on select products. Shop now and save!",
+        "date": "28-Apr-2024",
+        "img":"https://i.ibb.co/M5gxPHN/blog1.jpg",
+        "select":"collection"
+    },
+    {
+        "brand": "mamondots",
+        "title": "Summer gits guide",
+        "description": "Don't miss out on our limited-time promotion! Enjoy exclusive discounts and deals on select products. Shop now and save!",
+        "date": "28-Apr-2024",
+        "img":"https://i.ibb.co/mJLjmdF/blog4.jpg",
+        "select":"jeweler"
+    }
+]

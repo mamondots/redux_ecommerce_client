@@ -1,0 +1,28 @@
+.insta_box{
+    position: relative;
+}
+.insta_box::before{
+    position: absolute;
+    content:"";
+    left:0;
+    top:0;
+    width:100%;
+    height:100%;
+    background-color:#0000008f;
+    cursor: pointer;
+    opacity:0;
+    visibility:hidden;
+    transition:0.5s;
+}
+.insta_box:hover::before{
+    opacity:1;
+    visibility:visible;
+}
+.insta_icon{
+    position: absolute;
+    left:50%;
+    top:50%;
+    transform:translate(-50%,-50%);
+    transition:0.5s;
+    cursor: pointer;
+}

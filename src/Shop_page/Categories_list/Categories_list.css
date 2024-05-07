@@ -1,0 +1,25 @@
+
+.horizontal-slider .example-track{
+    top:20px;
+    height:5px;
+}
+.horizontal-slider .example-track-0{
+    background-color:rgb(95, 95, 95);
+}
+.horizontal-slider .example-track-1{
+    background-color:rgb(0, 0, 0);
+}
+.horizontal-slider .example-thumb{
+    top:14px;
+    width:15px;
+    height:15px;
+    font-size:10px;
+    text-align:center;
+    border:1px solid gray;
+    background-color:#fafafa;
+    color:#fff;
+    text-align:center;
+    cursor: pointer;
+    box-sizing:border-box;
+    outline:none;
+}

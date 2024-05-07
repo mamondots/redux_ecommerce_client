@@ -1,0 +1,17 @@
+.continue{
+    position: relative;
+}
+.continue::before{
+    position: absolute;
+    content: "";
+    width:100%;
+    height:2px;
+    background-color:#262626;
+    left:0;
+    bottom:-4px;
+    cursor: pointer;
+    transition:0.5s;
+}
+.continue:hover::before{
+    width:0;
+}
